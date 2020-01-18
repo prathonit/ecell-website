@@ -32,10 +32,11 @@
     </style>
   </head>
   <body>
+    
     <?php
       include './assets/header.php'
     ?>  
-    <!-- END nav -->
+    
     <div class="E-Cell_Launchpad-wrap" style="background-image: url('images/articlebackground.gif');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="business">
