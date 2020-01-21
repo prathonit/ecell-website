@@ -19,7 +19,7 @@
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Association</a></li>
                 <li><a href="#" class="py-2 d-block">Consulting</a></li>
-                <li><a href="launchpad.html" class="py-2 d-block">E-Summit</a></li>
+                <li><a href="launchpad.php" class="py-2 d-block">E-Summit</a></li>
               </ul>
             </div>
           </div>
@@ -27,11 +27,8 @@
             <div class="E-Cell_Website-footer-entrepreneur mb-4">
              <h2 class="E-Cell_Website-heading-2">Blogs</h2>
              <ul class="list-unstyled">
-               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
-               <!--<li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
-               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
-               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
-               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>-->
+               <li><a href="stadia.php" class="py-2 d-block">Google Stadia</a></li>
+              
              </ul>
            </div>
          </div>
@@ -53,8 +50,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved. </p>
           </div>
         </div>
       </div>

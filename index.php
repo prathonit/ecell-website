@@ -21,14 +21,14 @@
     <link rel="stylesheet" href="css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="css/jquery.timepicker.css">
 
-    
+      <style></style>
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
     <?php
-      include './assets/header.php'
+      include './assets/header_home.php'
     ?>  
     <div class="E-Cell_Launchpad-wrap" style="background-image: url('images/E-Cell_BPHC_bg1.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>

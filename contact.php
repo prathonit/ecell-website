@@ -28,7 +28,7 @@
   </head>
   <body>
     <?php
-      include './assets/header.php'
+      include './assets/header_contact.php'
     ?>
     <section class="E-Cell_Launchpad-wrap E-Cell_Launchpad-wrap-2" style="background-image: url('images/some.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>

@@ -25,11 +25,10 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel=stylesheet href=css/iconstylesheet.css>
   </head>
   <body>
-    <!-- nav -->
-    <?php
-      include './assets/header.php' ?>
+    <?php include('assets/header.php')?>
     
     <section class="E-Cell_Launchpad-wrap E-Cell_Launchpad-wrap-2" style="background-image: url('images/555.gif');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
@@ -395,8 +394,70 @@
         </div>
       </div>
     </section>
-    <?php
-      include './assets/footer.php' ?>
+   
+
+    <footer class="E-Cell_Website-footer E-Cell_Website-section">
+      <div class="business">
+        <div class="row mb-5">
+          <div class="col-md">
+            <div class="E-Cell_Website-footer-entrepreneur mb-4">
+              <h2 class="E-Cell_Website-heading-2">E-Cell BPHC</h2>
+              <p>Networking Startups All Over the World</p>
+              <ul class="E-Cell_Website-footer-social list-unstyled float-md-left float-lft mt-5">
+                <li class="E-Cell_Website-animate"><a href="https://www.linkedin.com/company/e-cell-bphc"><span class="icon-linkedin"></span></a></li>
+                <li class="E-Cell_Website-animate"><a href="https://www.facebook.com/eCELL.BPHC/"><span class="icon-facebook"></span></a></li>
+                <li class="E-Cell_Website-animate"><a href="https://www.instagram.com/ecell_bphc/"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="E-Cell_Website-footer-entrepreneur mb-4 ml-md-5">
+              <h2 class="E-Cell_Website-heading-2">Information</h2>
+              <ul class="list-unstyled">
+                <li><a href="#" class="py-2 d-block">Association</a></li>
+                <li><a href="#" class="py-2 d-block">Consulting</a></li>
+                <li><a href="launchpad.html" class="py-2 d-block">E-Summit</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="E-Cell_Website-footer-entrepreneur mb-4">
+             <h2 class="E-Cell_Website-heading-2">Blogs</h2>
+             <ul class="list-unstyled">
+               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
+               <!--<li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
+               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
+               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>
+               <li><a href="stadia.html" class="py-2 d-block">Google Stadia</a></li>-->
+             </ul>
+           </div>
+         </div>
+          <div class="col-md">
+            <div class="E-Cell_Website-footer-entrepreneur mb-4">
+              <h2 class="E-Cell_Website-heading-2">Have a Questions?</h2>
+              <div class="block-23 mb-3">
+                <ul>
+                  <li><span class="icon icon-map-marker"></span><span class="text">BITS Pilani Hyderabad Campus, Telangana, India. 500078</span></li>
+                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91-9475868494</span></a></li>
+                  <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91-9819822977</span></a></li>
+                  <li><a href="#"><span class="icon icon-envelope"></span><span class="text">ecell@hyderabad.bits-pilani.ac.in</span></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  
 
   <!-- loader -->
   <div id="E-Cell_Website-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
