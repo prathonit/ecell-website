@@ -48,7 +48,7 @@
       <div class=iconsRow>
         
         <div class=iconItem>
-          <a href='beyond_profits.php' title="Beyond Profits" class=iconTitle><img class=iconnew >BEND PROFITS</a>
+          <a href='beyond_profits.php' title="Beyond Profits" class=iconTitle><img class=iconnew >BEYOND PROFITS</a>
         </div>
         <div class=iconItem>
           <a href='ground_reality.php' title="Ground Reality" class=iconTitle><img class=iconnew >GROUND REALITY</a>
