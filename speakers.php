@@ -46,7 +46,7 @@
     <section class="E-Cell_Website-section">
            <div class="container">
 			<div class="el__section"><br>
-                			<h1>Eligibility</h1>
+                			<h1>Speakers</h1>
                 <div class="el__cardhid__left">
                     
                 </div>
