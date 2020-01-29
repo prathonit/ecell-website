@@ -45,7 +45,7 @@
 		
     <section class="E-Cell_Website-section">
            <div class="container">
-			<div class="el__section"><br>
+			<div class="el__section">
                 			<h1>Speakers</h1>
                 <div class="el__cardhid__left">
                     
@@ -53,22 +53,24 @@
 				<div class="el__card1">
                 
                     <div class="el__head__1">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="./images/tick.svg" style="height:100px;width:100px;"></h1>
-                    </div>
-                
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/anilAgarwal.jpg" style="height:100px;width:100px;"></h1>
+                    </div><br>
+                    <h5>Anil Agarwal</h5>
+                    <h6>Joint Secretary, Department for Promotion of Industry and Internal Trade</h6>
                 </div>
                 
                 <div class="el__card2">
                      <div class="el__head__2">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="./images/cross.svg" style="height:100px;width:100px;"></h1>    
-                    </div>
-                   
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/nandiniVaidhyanath.jpg" style="height:100px;width:100px;"></h1>    
+                    </div><br>
+                   <h5>Nandini Vaidhyanath</h5>
+                    <h6>Founder, CARMa Ventures</h6>
                 </div>
                     
                 </div>
 			</div>
               <div class="container">
-			<div class="el__section"><br>
+			<div class="el__section">
                 			
                 <div class="el__cardhid__left">
                     
@@ -76,15 +78,70 @@
 				<div class="el__card1">
                 
                     <div class="el__head__1">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="./images/tick.svg" style="height:100px;width:100px;"></h1>
-                    </div>
-                   
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/gregMoran.jpg" style="height:100px;width:100px;"></h1>
+                    </div><br>
+                   <h5>Greg Moran</h5>
+                        <h6>Founder, ZoomCar</h6>
                 </div>
                 
                 <div class="el__card2">
                      <div class="el__head__2">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="./images/cross.svg" style="height:100px;width:100px;"></h1>    
-                    </div>
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/Satyarth.jpg" style="height:100px;width:100px;"></h1>    
+                    </div><br>
+                    <h5>Satyarth Priyadarshi</h5>
+                    <h6>Head of Digital, TATA AIA</h6>
+                </div>
+                    
+                </div>
+			</div>
+        <!--Speakers section 3-->
+         <div class="container">
+			<div class="el__section">
+                			
+                <div class="el__cardhid__left">
+                    
+                </div>
+				<div class="el__card1">
+                
+                    <div class="el__head__1">
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/hariMenon.png" style="height:100px;width:100px;"></h1>
+                    </div><br>
+                   <h5>Hari Menon</h5>
+                        <h6>Big Basket</h6>
+                </div>
+                
+                <div class="el__card2">
+                     <div class="el__head__2">
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/tapanSinghel.jpg" style="height:100px;width:100px;"></h1>    
+                    </div><br>
+                    <h5>Tapan Singhel</h5>
+                    <h6>CEO, Bajaj Allianz</h6>
+                </div>
+                    
+                </div>
+			</div>
+        <!--Speaker section 4-->
+         <div class="container">
+			<div class="el__section">
+                			
+                <div class="el__cardhid__left">
+                    
+                </div>
+				<div class="el__card1">
+                
+                    <div class="el__head__1">
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/sachinGupta.jpg" style="height:100px;width:100px;"></h1>
+                    </div><br>
+                   <h5>Sachin Gupta</h5>
+                        <h6>CEO, HackerEarth</h6>
+                </div>
+                
+                <div class="el__card2">
+                     <div class="el__head__2">
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/jeyandran.jpg" style="height:100px;width:100px;"></h1>    
+                    </div><br>
+                    <h5>Jeyandran Venugopal</h5>
+                    <h6>Head of Engineering, Flipkart</h6>
                 </div>
                     
                 </div>
