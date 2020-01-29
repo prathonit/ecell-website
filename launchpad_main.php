@@ -59,13 +59,13 @@
         </div>
       <div class=iconsRow>
         <div class=iconItem>
-          <a href='blank.php' title="Beyond Profits" class=iconTitle><img class=iconnew >TITLE</a>
+          <a href='linkinternship_drive.php' title="Internship Drive" class=iconTitle><img class=iconnew >Internship Drive</a>
         </div>
         <div class=iconItem>
-          <a href='blank.php' title="Beyond Profits" class=iconTitle><img class=iconnew >TITLE</a>
+          <a href='linkguest_speakers.php' title="Guest Speakers" class=iconTitle><img class=iconnew >Guest Speakers</a>
         </div>
         <div class=iconItem>  
-          <a href='blank.php' title="Beyond Profits" class=iconTitle><img class=iconnew >TITLE</a>
+          <a href='linkmore_about.php' title="More About Launchpad" class=iconTitle><img class=iconnew >More About Launchpad</a>
         </div>
       </div>
     </section>
