@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel=stylesheet href=css/iconstylesheet.css>
+    <link rel=stylesheet href=css/iconstyle.css>
   </head>
   <body>
     <?php include('assets/header.php')?>
@@ -42,191 +42,35 @@
       </div>
     </section>
     
-    <section class="E-Cell_Website-counter img E-Cell_Website-section E-Cell_Website-no-pt E-Cell_Website-no-pb">
-      <div id="LaunchpadTag">
-      <div class="business">
-        <div class="row d-flex">
-          <div class="col-md-6 col-lg-5 d-flex">
-            <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about-1.jpg);">
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-7 pl-lg-5 py-5">
-            <div class="py-md-5">
-              <div class="row justify-content-start pb-3">
-                <div class="col-md-12 heading-section E-Cell_Website-animate">
-                  <span class="subheading">A Few Words About Launchpad</span>
-                  <h2 class="mb-4">Creating <span class="number" data-number="1000">0</span>s of Entrepreneurial Minds</h2>
-                  <p>Launchpad is the annual E-summit organised by the Entrepreneurship Cell,BITS Pilani Hyderabad Campus.</p>
-                  <p>A grand confluence of keynote speakers,founders,entrepreneurship enthusiasts,investors,VCs, influencers to expose multiple elements of the start-up ecosystem which will provide an excellent platform to learn while networking with a stimulating start-up community.</p>
-                  <p>The young entrepreneurs are put to spotlight with an avenue to showcase their start-up to the attendees in the form of Start-up Expo where they can pitch their ideas, bag a funding, hire talent, learn from the plethora of experience and receive invaluable feedback. As part of our effort to connect Start-ups/companies with enthusiastic interns, we organize an Internship Drive to provide work from home experience.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </section>
-    <!--<section class="E-Cell_Website-section E-Cell_Website-causes">
-      <div class="business">
-        <div class="row justify-content-center pb-3">
-          <div class="col-md-10 heading-section text-center E-Cell_Website-animate">
-            <h2 class="mb-4">Our Proud Associates</h2>
-            <a href=""><p>Associate With Us!</p></a>
-          </div>
-        </div>
-      </div>
-      <div class="business">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="launchpad-causes owl-launchpad">
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-1.jpg);"></div>
-                  <h2>Vithun Athreya</h2>
-                  <h3>President 2019-2020</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-3.jpg);"></div>
-                  <h2>Avishek Bhattacharjee</h2>
-                  <h3>Vice-President 2019-2020</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-5.jpg);"></div>
-                  <h2>Divyam Goel</h2>
-                  <h3>Activities Head 2019-2020</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-2.jpg);"></div>
-                  <h2>Shreyansh Jain</h2>
-                  <h3>President 2018-2019</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-4.jpg);"></div>
-                  <h2>Kanishk Katara</h2>
-                  <h3>Activities Head 2019-2020</h3>
-                </a>
-              </div>
-              <div class="item">
-                  <a href="" target="_blank" class="causes text-center">
-                    <div class="img" style="background-image: url(images/causes-4.jpg);"></div>
-                    <h2>Kanishk Katara</h2>
-                    <h3>#####</h3>
-                  </a>
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>-->
-    <br/>
+    </body>
+  </br>
     <section class=EcellIcons>
       <div class=iconsRow>
-        <a href='beyondprofits.php' title="Beyond Profits"><img class=iconnew ></a>
-        <a href='groundreality.php'title="Ground Reality"><img class=iconnew ></a>
-        <a href='start-upexpo.php' title="Start-Up Expo"><img class=iconnew ></a>
-      </div>
-      <div class="linksRow">
-        <span id=iconTitle><a href="beyondprofits.php">BEYOND PROFITS</a></span>
-        <span id=iconTitle><a href="groundreality.php">GROUND REALITY</a></span>
-        <span id=iconTitle><a href="start-upexpo.php">START-UP EXPO</a></span>
-      </div>  <br/>
+        
+        <div class=iconItem>
+          <a href='beyond_profits.php' title="Beyond Profits" class=iconTitle><img class=iconnew >BEYOND PROFITS</a>
+        </div>
+        <div class=iconItem>
+          <a href='ground_reality.php' title="Ground Reality" class=iconTitle><img class=iconnew >GROUND REALITY</a>
+        </div>
+        <div class=iconItem>  
+          <a href='startup_expo.php' title="Start-Up Expo" class=iconTitle><img class=iconnew >START-UP EXPO</a>
+        </div>
+        </div>
       <div class=iconsRow>
-        <a href='beyondprofits.php'><img class=iconnew></a>
-        <a href='beyondprofits.php'><img class=iconnew></a>
-        <a href='beyondprofits.php'><img class=iconnew></a>
+        <div class=iconItem>
+          <a href='blank.php' title="Beyond Profits" class=iconTitle><img class=iconnew >TITLE</a>
+        </div>
+        <div class=iconItem>
+          <a href='blank.php' title="Beyond Profits" class=iconTitle><img class=iconnew >TITLE</a>
+        </div>
+        <div class=iconItem>  
+          <a href='blank.php' title="Beyond Profits" class=iconTitle><img class=iconnew >TITLE</a>
+        </div>
       </div>
-      <div class="linksRow">
-        <span id=iconTitle></span>
-        <span id=iconTitle></span>
-        <span id=iconTitle></span>
-      </div>  
     </section>
     <br/>
-    <section class="E-Cell_Website-counter img E-Cell_Website-section E-Cell_Website-no-pt E-Cell_Website-no-pb">
-      <div id="InternshipDriveTag">
-      <div class="business">
-        <div class="row d-flex">
-          <div class="col-md-6 col-lg-7 pl-lg-5 py-5">
-            <div class="py-md-5">
-              <div class="row justify-content-start pb-3">
-                <div class="col-md-12 heading-section E-Cell_Website-animate">
-                  <span class="subheading">Internship Drive</span>
-                  <h2 class="mb-4">Connecting <span class="number" data-number="100">0</span>s With the Right Company</h2>
-                  <p>Experience is the first question when one goes to apply for a job. For those beginning in college, internships are the best way to gain that experience and learn about the versatility of a job environment.</p>
-                  <p>Internship Drive is an opportunity to find an ideal internship based on your skills or interests from 30+ startups providing stipend from 3k to 30k INR with around 55% of them being an opportunity of a work from home environment. This serves as a great chance for you to get hands on experience in the mechanism of selection process and interviews for various companies before even stepping foot on the real corporate world.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-5 d-flex">
-            <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/ID.png);">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </section>
-    <!--<section class="E-Cell_Website-section E-Cell_Website-causes">
-      <div class="business">
-        <div class="row justify-content-center pb-3">
-          <div class="col-md-10 heading-section text-center E-Cell_Website-animate">
-            <h2 class="mb-4">Companies In Our Internship Drives!</h2>
-          </div>
-        </div>
-      </div>
-      <div class="business">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="launchpad-causes owl-launchpad">
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-1.jpg);"></div>
-                  <h2>Vithun Athreya</h2>
-                  <h3>President 2019-2020</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-3.jpg);"></div>
-                  <h2>Avishek Bhattacharjee</h2>
-                  <h3>Vice-President 2019-2020</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-5.jpg);"></div>
-                  <h2>Divyam Goel</h2>
-                  <h3>Activities Head 2019-2020</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-2.jpg);"></div>
-                  <h2>Shreyansh Jain</h2>
-                  <h3>President 2018-2019</h3>
-                </a>
-              </div>
-              <div class="item">
-                <a href="" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-4.jpg);"></div>
-                  <h2>Kanishk Katara</h2>
-                  <h3>#####</h3>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>-->
+    
     <section class="Launchpad_Guests-section">
       <div class="business">
         <div class="row E-Cell_Website-animate justify-content-center">
@@ -481,3 +325,4 @@
     
   </body>
 </html>
+
