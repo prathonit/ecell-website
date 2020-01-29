@@ -11,7 +11,7 @@ img.poster{
 	
 	float: left;
 	width: 40%;
-	border: 30px solid white;
+	border: 30px solid red;
 	padding: 3px;
 	height: 450px;
 }
@@ -19,7 +19,7 @@ img.poster{
 
 .desc{
 	width: 100%;
-	color: black;
+	color: red;
     font-size: 20px;
     
 }
@@ -36,4 +36,14 @@ img.poster{
     font-weight: 300;
     display: block;
     
+}
+
+#grey
+{
+    color: #999;
+}
+
+#clear
+{
+    clear: left;
 }

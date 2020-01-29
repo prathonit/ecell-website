@@ -52,8 +52,11 @@
     <div class=descLay>
       <img class=poster href="https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528__340.jpg">
         <span class=low>Small text</span>
-        <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <span class=high> Connecting <span id=grey>100s With The Right Company</span></span>
+        <div class=desc><p>Experience is the first question when one goes to apply for a job. For those beginning in college, internships are the best way to gain that experience and learn about the versatility of a job environment.</p>
+
+        <p>Internship Drive is an opportunity to find an ideal internship based on your skills or interests from 30+ startups providing stipend from 3k to 30k INR with around 55% of them being an opportunity of a work from home environment. This serves as a great chance for you to get hands on experience in the mechanism of selection process and interviews for various companies before even stepping foot on the real corporate world.</p>
+            <p id=clear></p>
       </div>
     </div>
     
