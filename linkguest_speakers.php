@@ -36,8 +36,8 @@
       <div class="business">
         <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
           <div class="col-md-9 E-Cell_Website-animate pb-5 text-center">
-            <h2 class="mb-3 bread">Speakers</h2>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span class="mr-2"><a href="launchpad.php">Launchpad <i class="ion-ios-arrow-forward"></i></a></span> <span>Speakers <i class="ion-ios-arrow-forward"></i></span></p>
+            <h2 class="mb-3 bread">Guest Speakers</h2>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span class="mr-2"><a href="launchpad_main.php">Launchpad <i class="ion-ios-arrow-forward"></i></a></span> <span>Guest Speakers <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
