@@ -19,7 +19,7 @@
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Association</a></li>
                 <li><a href="#" class="py-2 d-block">Consulting</a></li>
-                <li><a href="launchpad.php" class="py-2 d-block">E-Summit</a></li>
+                <li><a href="launchpad_main.php" class="py-2 d-block">E-Summit</a></li>
               </ul>
             </div>
           </div>

@@ -46,7 +46,7 @@
     <section class="E-Cell_Website-section">
            <div class="container">
 			<div class="el__section">
-                			<h1>Speakers</h1>
+                			
                 <div class="el__cardhid__left">
                     
                 </div>
@@ -57,6 +57,7 @@
                     </div><br>
                     <h5>Anil Agarwal</h5>
                     <h6>Joint Secretary, Department for Promotion of Industry and Internal Trade</h6>
+                    <br><button class="btn btn-primary">Know more</button> 
                 </div>
                 
                 <div class="el__card2">
@@ -65,11 +66,12 @@
                     </div><br>
                    <h5>Nandini Vaidhyanath</h5>
                     <h6>Founder, CARMa Ventures</h6>
+                <br><button class="btn btn-primary">Know more</button>    
                 </div>
                     
                 </div>
-			</div>
-              <div class="container">
+			<!--Speaker section 2-->
+              
 			<div class="el__section">
                 			
                 <div class="el__cardhid__left">
@@ -82,6 +84,7 @@
                     </div><br>
                    <h5>Greg Moran</h5>
                         <h6>Founder, ZoomCar</h6>
+                    <br><button class="btn btn-primary">Know more</button> 
                 </div>
                 
                 <div class="el__card2">
@@ -90,12 +93,13 @@
                     </div><br>
                     <h5>Satyarth Priyadarshi</h5>
                     <h6>Head of Digital, TATA AIA</h6>
+                    <br><button class="btn btn-primary">Know more</button> 
                 </div>
                     
                 </div>
-			</div>
+			
         <!--Speakers section 3-->
-         <div class="container">
+         
 			<div class="el__section">
                 			
                 <div class="el__cardhid__left">
@@ -108,6 +112,7 @@
                     </div><br>
                    <h5>Hari Menon</h5>
                         <h6>Big Basket</h6>
+                    <br><button class="btn btn-primary">Know more</button> 
                 </div>
                 
                 <div class="el__card2">
@@ -116,12 +121,15 @@
                     </div><br>
                     <h5>Tapan Singhel</h5>
                     <h6>CEO, Bajaj Allianz</h6>
+                    <br><button class="btn btn-primary">Know more</button> 
                 </div>
                     
                 </div>
-			</div>
+        </div>
+        
+			
         <!--Speaker section 4-->
-         <div class="container">
+         
 			<div class="el__section">
                 			
                 <div class="el__cardhid__left">
@@ -134,6 +142,7 @@
                     </div><br>
                    <h5>Sachin Gupta</h5>
                         <h6>CEO, HackerEarth</h6>
+                    <br><button class="btn btn-primary">Know more</button> 
                 </div>
                 
                 <div class="el__card2">
@@ -142,10 +151,11 @@
                     </div><br>
                     <h5>Jeyandran Venugopal</h5>
                     <h6>Head of Engineering, Flipkart</h6>
+                    <br><button class="btn btn-primary">Know more</button> 
                 </div>
                     
                 </div>
-			</div>
+			
     </section> <!-- .section -->
 
     <?php

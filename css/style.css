@@ -79,7 +79,11 @@ body {
     position: relative;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin: 5px;
 }
-
+.el__card1:hover {
+    
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin: 5px;
+}
 .el__card2 {
     width: 32%;
     color: #333;
@@ -89,6 +93,11 @@ body {
     float:left;
     position: relative;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin: 5px;
+}
+.el__card2:hover {
+    
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin: 5px;
 }
 .el__cardhid__left{
     width: 17%;
