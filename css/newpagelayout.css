@@ -46,5 +46,13 @@ img.poster{
 	padding: 3px;
 	height: 450px;
 }
+    .descLay{
+	width:95%;
+	margin: auto;
+	justify-content: space-around;
+    border-top: 40px white solid;
+    border-bottom: 40px white solid;
+    display: block;    
+}
 
 }

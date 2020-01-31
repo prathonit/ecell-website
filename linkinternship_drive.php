@@ -51,12 +51,13 @@
     </div>
     <div class=descLay>
       <img class="poster" src="images/internship_drive.png">
-        <span class=low>Small text</span>
-        <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <span class=low>Internship Drive</span>
+        <span class=high><h2 class="mb-4">Connecting <span class="number" data-number="100">0</span>s With the Right Company</h2></span>
+        <div class=desc>
+                  <p>Experience is the first question when one goes to apply for a job. For those beginning in college, internships are the best way to gain that experience and learn about the versatility of a job environment.</p>
+                  <p>Internship Drive is an opportunity to find an ideal internship based on your skills or interests from 30+ startups providing stipend from 3k to 30k INR with around 55% of them being an opportunity of a work from home environment. This serves as a great chance for you to get hands on experience in the mechanism of selection process and interviews for various companies before even stepping foot on the real corporate world.</p>
       </div>
     </div>
-    
     <?php
       include './assets/footer.php'
     ?>
