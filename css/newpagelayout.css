@@ -37,3 +37,14 @@ img.poster{
     display: block;
     
 }
+@media (max-width:992px){
+    img.poster{
+	
+	float: none;
+	width: 100%;
+	border: 30px solid white;
+	padding: 3px;
+	height: 450px;
+}
+
+}

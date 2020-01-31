@@ -53,7 +53,11 @@
       <img class=poster src="images/beyond_profits.jpeg">
         <span class=low>Small text</span>
         <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <div class=desc>
+            "Humanity's greatest advances are not in its discoveries, but in how those discoveries are applied to reduce inequity."- Bill Gates
+  Can you show you have what it takes to be a good steward of resources? Do you have a business plan that can help alleviate a social problem and earn a profit from its demand? 
+  Beyond Profits with a start-up accelerator for social entrepreneurship which brings together the brightest ideas from all over the country."</br></br></p>
+Quoting Bill Drayton “Social entrepreneurs are not content just to give a fish or teach how to fish. They will not rest until they have revolutionized the fishing industry
       </div>
     </div>
     
