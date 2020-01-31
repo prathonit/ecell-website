@@ -53,7 +53,8 @@
       <img class=poster href="https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528__340.jpg">
         <span class=low>Small text</span>
         <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <div class=desc>Time doesn't wait for anyone, take the opportunity before it's too late. Ground Reality 2019 presents young entrepreneurs with an excellent platform to put their ideas against the gruels of the real world while receiving invaluable inputs to bring the best version of it.
+            <p id=clear></p>
       </div>
     </div>
     
