@@ -78,7 +78,7 @@
                 <span class="icon-globe"></span>
               </div>
               <h3 class="mb-4">Website</h3>
-              <p><a href="#">###########</a></p>
+              <p><a href="#">ecell-bitshyd.in</a></p>
             </div>
           </div>
         </div>

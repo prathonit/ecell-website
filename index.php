@@ -36,7 +36,7 @@
         <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
           <div class="col-md-6 order-md-last E-Cell_Website-animate mt-5" data-scrollax=" properties: { translateY: '70%' }">
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">BITS Pilani Hyderabad Campus</h1>
-            <p><a href="#" class="btn btn-black py-3 px-4">GET OUR HELP</a></p>
+            <p><a href="contact.php" class="btn btn-black py-3 px-4">GET OUR HELP</a></p>
           </div>
           <div class="col-md-6 d-none d-md-block">
           	<div class="play-video pb-5 d-flex align-items-center">
@@ -93,7 +93,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
             <div class="media block-6 services active d-block">
               <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad.php#LaunchpadTag">LAUNCHPAD</a></h3>
+                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad_main.php">LAUNCHPAD</a></h3>
                 <p>Launchpad is the annual E-summit organised by the Entrepreneurship Cell, BITS Pilani Hyderabad Campus.</p>
               </div>
             </div>      
@@ -101,7 +101,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
             <div class="media block-6 services d-block">
               <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad.php#IntershipDriveTag">INTERNSHIP DRIVES</a></h3>
+                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad_main.php">INTERNSHIP DRIVES</a></h3>
                 <p>Internship Drive is an opportunity to find an internship in 30+ startups providing stipend upto to 50k INR.</p>
               </div>
             </div>      

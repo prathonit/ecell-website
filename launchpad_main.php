@@ -48,13 +48,13 @@
       <div class=iconsRow>
         
         <div class=iconItem>
-          <a href='beyond_profits.php' title="Beyond Profits" class=iconTitle><img src ="images/beyond_profits.jpeg" class=iconnew >BEYOND PROFITS</a>
+          <a href='linkbeyond_profits.php' title="Beyond Profits" class=iconTitle><img src ="images/beyond_profits.jpeg" class=iconnew >BEYOND PROFITS</a>
         </div>
         <div class=iconItem>
-          <a href='ground_reality.php' title="Ground Reality" class=iconTitle><img src="images/ground_reality.png" class=iconnew >GROUND REALITY</a>
+          <a href='linkground_reality.php' title="Ground Reality" class=iconTitle><img src="images/ground_reality.png" class=iconnew >GROUND REALITY</a>
         </div>
         <div class=iconItem>  
-          <a href='startup_expo.php' title="Start-Up Expo" class=iconTitle><img src="images/startup_expo.png" class=iconnew >START-UP EXPO</a>
+          <a href='linkstartup_expo.php' title="Start-Up Expo" class=iconTitle><img src="images/startup_expo.png" class=iconnew >START-UP EXPO</a>
         </div>
         </div>
       <div class=iconsRow>

@@ -43,17 +43,21 @@
       <div class="business">
         <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
           <div class="col-md-6 order-md-last E-Cell_Website-animate mt-5" data-scrollax=" properties: { translateY: '70%' }">
-            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">BEYOND PROFITS</h1>
-            <p class="breadcrumbs"><span class="mr-2">July 2019</span></p>
+            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Beyond Profits</h1>
+            
           </div>
         </div>
       </div>
     </div>
     <div class=descLay>
-      <img class=poster href="https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528__340.jpg">
-        <span class=low>Small text</span>
+      <img class=poster src="images/beyond_profits.jpeg">
+        <span class=low>Beyond Profits</span>
         <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <div class=desc>
+            "Humanity's greatest advances are not in its discoveries, but in how those discoveries are applied to reduce inequity."- Bill Gates
+  Can you show you have what it takes to be a good steward of resources? Do you have a business plan that can help alleviate a social problem and earn a profit from its demand? 
+  Beyond Profits with a start-up accelerator for social entrepreneurship which brings together the brightest ideas from all over the country."</br></br></p>
+Quoting Bill Drayton “Social entrepreneurs are not content just to give a fish or teach how to fish. They will not rest until they have revolutionized the fishing industry
       </div>
     </div>
     
