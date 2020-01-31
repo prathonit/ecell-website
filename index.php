@@ -56,7 +56,7 @@
     						<div class="text py-5 pl-md-4 pr-md-3">
     							<h2 class="mb-4">We are E-CELL, BPHC</h2>
     							<p>We aim at fostering entrepreneurial skills among students</p>
-    							<p><a href="contact.html" class="btn btn-primary py-3 px-4">For Association</a></p>
+    							<p><a href="contact.php#eCellConnectTag" class="btn btn-primary py-3 px-4">For Association</a></p>
     						</div>
     					</div>
     				</div>
@@ -65,7 +65,7 @@
     				<div class="about-text py-5 pl-md-5">
     					<h2><strong class="text" >NETWORKING</strong></h2>
     					<p>We connect various start ups and guide them through their journey.</p>
-              <p><a href="contact.html#eCellConnectTag" class="btn btn-black py-3 px-4">E-Cell Connect</a></p>
+              <p><a href="contact.php" class="btn btn-black py-3 px-4">E-Cell Connect</a></p>
     				</div>
     			</div>
     		</div>
@@ -85,7 +85,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
             <div class="media block-6 services d-block">
               <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="activities.html#compititionsTag">COMPETITIONS</a></h3>
+                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="activities.php#compititionsTag">COMPETITIONS</a></h3>
                 <p>All Year E-Cell hosts various compititions to test the limits of your Wits and dedication towards your ideas.</p>
               </div>
             </div>   
@@ -93,7 +93,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
             <div class="media block-6 services active d-block">
               <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad.html#LaunchpadTag">LAUNCHPAD</a></h3>
+                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad.php#LaunchpadTag">LAUNCHPAD</a></h3>
                 <p>Launchpad is the annual E-summit organised by the Entrepreneurship Cell, BITS Pilani Hyderabad Campus.</p>
               </div>
             </div>      
@@ -101,7 +101,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
             <div class="media block-6 services d-block">
               <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad.html#IntershipDriveTag">INTERNSHIP DRIVES</a></h3>
+                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad.php#IntershipDriveTag">INTERNSHIP DRIVES</a></h3>
                 <p>Internship Drive is an opportunity to find an internship in 30+ startups providing stipend upto to 50k INR.</p>
               </div>
             </div>      

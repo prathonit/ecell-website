@@ -4,24 +4,31 @@
 	justify-content: space-around;
     border-top: 40px white solid;
     border-bottom: 40px white solid;
-    display: block;    
+    display: block;  
+    overflow: hidden;
 }
 
 img.poster{
-	
 	float: left;
 	width: 40%;
 	border: 30px solid white;
-    border-bottom: 20px;
+   border-bottom: 20px;
 	padding: 3px;
 	height: 450px;
+  margin: 10px;
 }
 
 
 .desc{
 	width: 100%;
+
 	color: black;
+
+	
+
     font-size: 20px;
+    margin: 5px;
+    overflow: hidden;
     
 }
 .high{
@@ -42,6 +49,7 @@ img.poster{
     
 }
 
+
 #grey
 {
     color: #BBB;
@@ -51,6 +59,7 @@ img.poster{
 {
     clear: left;
 }
+
 
 #quote{
     font-size: 50px;
@@ -68,4 +77,25 @@ img.poster{
     content: close-quote;
     font-size: 70px;
     color:#7f9f9f;
+
+@media (max-width:992px){
+    img.poster{
+	
+	float: none;
+	width: 100%;
+	border: 30px solid white;
+	padding: 3px;
+	height: 450px;
+}
+    .descLay{
+	width:95%;
+	margin: auto;
+	justify-content: space-around;
+    border-top: 40px white solid;
+    border-bottom: 40px white solid;
+    display: block;    
+}
+
+
+
 }
