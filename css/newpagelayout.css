@@ -4,23 +4,27 @@
 	justify-content: space-around;
     border-top: 40px white solid;
     border-bottom: 40px white solid;
-    display: block;    
+    display: block;  
+    overflow: hidden;
 }
 
 img.poster{
 	
 	float: left;
 	width: 40%;
-	border: 30px solid red;
+	border: 30px solid #5F9F9F;
 	padding: 3px;
 	height: 450px;
+    margin: 10px;
 }
 
 
 .desc{
 	width: 100%;
-	color: red;
+	color: #5F9F9F;
     font-size: 20px;
+    margin: 5px;
+    overflow: hidden;
     
 }
 .high{
