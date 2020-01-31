@@ -53,7 +53,13 @@
       <img class=poster src="images/ECellConnect.jpeg">
         <span class=low>Small text</span>
         <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <div class=desc><p>Launchpad is the annual E-summit organised by the Entrepreneurship Cell,BITS Pilani Hyderabad Campus.</p>
+
+            <p>A grand confluence of keynote speakers,founders,entrepreneurship enthusiasts,investors,VCs, influencers to expose multiple elements of the start-up ecosystem which will provide an excellent platform to learn while networking with a stimulating start-up community.</p>
+
+            <p>The young entrepreneurs are put to spotlight with an avenue to showcase their start-up to the attendees in the form of Start-up Expo where they can pitch their ideas, bag a funding, hire talent, learn from the plethora of experience and receive invaluable feedback. As part of our effort to connect Start-ups/companies with enthusiastic interns, we organize an Internship Drive to provide work from home experience.</p>
+            <p id=clear></p>
+            <p id=quote>Humanity's greatest advances are not in its discoveries, but in how those discoveries are applied to reduce inequity.</p><p> - Bill Gates</p>
       </div>
     </div>
     

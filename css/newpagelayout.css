@@ -9,19 +9,23 @@
 }
 
 img.poster{
-	
 	float: left;
 	width: 40%;
-	border: 30px solid #5F9F9F;
+	border: 30px solid white;
+   border-bottom: 20px;
 	padding: 3px;
 	height: 450px;
-    margin: 10px;
+  margin: 10px;
 }
 
 
 .desc{
 	width: 100%;
-	color: #5F9F9F;
+
+	color: black;
+
+	
+
     font-size: 20px;
     margin: 5px;
     overflow: hidden;
@@ -29,15 +33,18 @@ img.poster{
 }
 .high{
     width: 100%;
-    font-size: 40px;
+    font-size: 45px;
     font-weight: 1000;
     display: block;
+    line-height: 48px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     
 }
 .low{
     width: 100%;
-    font-size: 17px;
-    font-weight: 300;
+    font-size: 27px;
+    font-weight: 600;
     display: block;
     
 }
@@ -45,13 +52,32 @@ img.poster{
 
 #grey
 {
-    color: #999;
+    color: #BBB;
 }
 
 #clear
 {
     clear: left;
 }
+
+
+#quote{
+    font-size: 50px;
+    line-height: 53px;
+    color:#7f9f9f;
+}
+
+#quote::before{
+    content: open-quote;
+    font-size: 70px;
+    color:#7f9f9f;
+}
+
+#quote::after{
+    content: close-quote;
+    font-size: 70px;
+    color:#7f9f9f;
+
 @media (max-width:992px){
     img.poster{
 	
@@ -69,6 +95,7 @@ img.poster{
     border-bottom: 40px white solid;
     display: block;    
 }
+
 
 
 }

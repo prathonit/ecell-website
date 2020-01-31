@@ -51,6 +51,13 @@
     </div>
     <div class=descLay>
 
+      <img class=poster href="https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528__340.jpg">
+        <span class=low>Small text</span>
+        <span class=high> Connecting <span id=grey>100s</span> With The Right Company</span>
+        <div class=desc><p>Experience is the first question when one goes to apply for a job. For those beginning in college, internships are the best way to gain that experience and learn about the versatility of a job environment.</p>
+
+
+
       
 
       <img class="poster" src="images/internship_drive.png">
