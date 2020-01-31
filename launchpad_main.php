@@ -65,7 +65,7 @@
           <a href='linkguest_speakers.php' title="Guest Speakers" class=iconTitle><img src="images/guest_speaker.jpg" class=iconnew >Guest Speakers</a>
         </div>
         <div class=iconItem>  
-          <a href='linkmore_about.php' title="More About Launchpad" class=iconTitle><img src="images/ECellConnect.jpeg" class=iconnew >More About Launchpad</a>
+          <a href='linkmore_about.php' title="More About Launchpad" class=iconTitle><img src="images/ECellConnect.jpeg" class=iconnew ><br>More About Launchpad</a>
         </div>
       </div>
     </section>
