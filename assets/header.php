@@ -10,7 +10,7 @@
           <ul class="navbar-nav ml-auto">
             <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
             <li class="nav-item"><a href="activities.php" class="nav-link">Activities</a></li>
-            <li class="nav-item active"><a href="launchpad.php" class="nav-link">Launchpad</a></li>
+            <li class="nav-item active"><a href="launchpad_main.php" class="nav-link">Launchpad</a></li>
             <!--<li class="nav-item"><a href="blog.php" class="nav-link">Blogs</a></li>-->
             <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
           </ul>

@@ -38,6 +38,7 @@ img.poster{
     
 }
 
+
 #grey
 {
     color: #999;
@@ -46,4 +47,24 @@ img.poster{
 #clear
 {
     clear: left;
+}
+@media (max-width:992px){
+    img.poster{
+	
+	float: none;
+	width: 100%;
+	border: 30px solid white;
+	padding: 3px;
+	height: 450px;
+}
+    .descLay{
+	width:95%;
+	margin: auto;
+	justify-content: space-around;
+    border-top: 40px white solid;
+    border-bottom: 40px white solid;
+    display: block;    
+}
+
+
 }
