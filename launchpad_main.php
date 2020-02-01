@@ -45,29 +45,31 @@
     </body>
   </br>
     <section class=EcellIcons>
+        <center>
       <div class=iconsRow>
         
         <div class=iconItem>
-          <a href='linkbeyond_profits.php' title="Beyond Profits" class=iconTitle><img src ="images/beyond_profits.jpeg" class=iconnew >BEYOND PROFITS</a>
+          <a href='linkbeyond_profits.php' title="Beyond Profits" class=iconTitle><img src ="images/beyond_profits.jpeg" class=iconnew ><br>BEYOND PROFITS</a>
         </div>
         <div class=iconItem>
-          <a href='linkground_reality.php' title="Ground Reality" class=iconTitle><img src="images/ground_reality.png" class=iconnew >GROUND REALITY</a>
+          <a href='linkground_reality.php' title="Ground Reality" class=iconTitle><img src="images/ground_reality.png" class=iconnew ><br>GROUND REALITY</a>
         </div>
         <div class=iconItem>  
-          <a href='linkstartup_expo.php' title="Start-Up Expo" class=iconTitle><img src="images/startup_expo.png" class=iconnew >START-UP EXPO</a>
+          <a href='linkstartup_expo.php' title="Start-Up Expo" class=iconTitle><img src="images/startup_expo.png" class=iconnew ><br>START-UP EXPO</a>
         </div>
         </div>
       <div class=iconsRow>
         <div class=iconItem>
-          <a href='linkinternship_drive.php' title="Internship Drive" class=iconTitle><img src="images/internship_drive.png" class=iconnew >Internship Drive</a>
+          <a href='linkinternship_drive.php' title="Internship Drive" class=iconTitle><img src="images/internship_drive.png" class=iconnew ><br>Internship Drive</a>
         </div>
         <div class=iconItem>
-          <a href='linkguest_speakers.php' title="Guest Speakers" class=iconTitle><img src="images/guest_speaker.jpg" class=iconnew >Guest Speakers</a>
+          <a href='linkguest_speakers.php' title="Guest Speakers" class=iconTitle><img src="images/guest_speaker.jpg" class=iconnew ><br>Guest Speakers </a>
         </div>
         <div class=iconItem>  
           <a href='linkmore_about.php' title="More About Launchpad" class=iconTitle><img src="images/ECellConnect.jpeg" class=iconnew ><br>More About Launchpad</a>
         </div>
       </div>
+        </center>
     </section>
     <br/>
     
