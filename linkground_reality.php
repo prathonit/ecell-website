@@ -50,10 +50,10 @@
       </div>
     </div>
     <div class=descLay>
-      <img class=poster href="https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528__340.jpg">
+      <img class=poster src="images/ground_reality.png">
         <span class=low>Ground Reality</span>
-        <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <span class=high> Take the opportunity before its too late</span>
+        <div class=desc>Time doesn't wait for anyone, take the opportunity before it's too late. Ground Reality 2020 presents young entrepreneurs with an excellent platform to put their ideas against the gruels of the real world while receiving invaluable inputs to bring the best version of it.<br><br><br><br><br>
       </div>
     </div>
     

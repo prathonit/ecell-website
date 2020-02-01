@@ -49,10 +49,12 @@
       </div>
     </div>
     <div class=descLay>
-      <img class=poster href="https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528__340.jpg">
+      <img class=poster src="images/startup_expo.png">
         <span class=low>Startup Expo</span>
-        <span class=high> Highlighted text</span>
-        <div class=desc>Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. Description text. 
+        <span class=high>Grab the spotlight for your startup</span>
+        <div class=desc>Start-up Expo is an initiative taken to provide young entrepreneurs the spotlight they deserve by showcasing their enterprises to the attendees present at the summit. Not only is it an enriching experience for entrepreneurs as they’ll receive invaluable feedback from their potential customers, but it also exposes them to a plethora of opportunities to grow as an enterprise.To leverage the day to the fullest by connecting with the giants of corporate world attending the summit, and present your start-up to an exclusive investor panel and potentially bag a generous funding.
+
+Think your start-up has the potential to become the next big thing? Do you have a Business model which is profitable and sustainable at the same time? Ground Reality, the annual B-Plan competition of BITS Pilani Hyderabad Campus is one such platform which will help you to answer all those queries! Exposing you to the gruel of the real-world challenges of starting-up, yet, at the same time allowing you to grow and learn by experiencing in a risk-free environment - Ground Reality is a stage known to manifest a successful entrepreneur within you! Create. Ideate. Innovate. Optimise that business model. Surge your revenues. Tinker with your grey matter and carve that idea to perfection!
       </div>
     </div>
     

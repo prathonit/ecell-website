@@ -37,6 +37,23 @@ img.poster{
     display: block;
     
 }
+#quote{
+    font-size: 50px;
+    line-height: 53px;
+    color:#7f9f9f;
+}
+
+#quote::before{
+    content: open-quote;
+    font-size: 70px;
+    color:#7f9f9f;
+}
+
+#quote::after{
+    content: close-quote;
+    font-size: 70px;
+    color:#7f9f9f;
+}
 @media (max-width:992px){
     img.poster{
 	

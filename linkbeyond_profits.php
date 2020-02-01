@@ -52,7 +52,7 @@
     <div class=descLay>
       <img class=poster src="images/beyond_profits.jpeg">
         <span class=low>Beyond Profits</span>
-        <span class=high> Highlighted text</span>
+        <span class=high>Make your startup a social gamechanger</span>
         <div class=desc>
             "Humanity's greatest advances are not in its discoveries, but in how those discoveries are applied to reduce inequity."- Bill Gates
   Can you show you have what it takes to be a good steward of resources? Do you have a business plan that can help alleviate a social problem and earn a profit from its demand? 
