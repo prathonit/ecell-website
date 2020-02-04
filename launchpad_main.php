@@ -41,7 +41,13 @@
         </div>
       </div>
     </section>
-    
+     <section class="EcellIcons" style="padding:40px;background-color:#5F9F9F;">
+        <center>
+            <Br> <a href="https://www.thecollegefever.com/college-entrepreneurship-events/launchpad-entrepreneurial-summit-bits-hyderabad2020"><button class="btn btn-accent" style="border-radius:10px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"><h1 style="color:white;">Register Now</h1></button></a>
+        
+        </center>
+        
+    </section>
     </body>
   </br>
     <section class=EcellIcons>
@@ -72,6 +78,7 @@
         </center>
     </section>
     <br/>
+   
     
     <section class="Launchpad_Guests-section">
       <div class="business">
