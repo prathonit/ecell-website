@@ -92,6 +92,22 @@
               <h4>The best from the Entrepreneurship World</h4>
             </div>
             <div class="launchpad-Launchpad_Guests owl-launchpad E-Cell_Website-owl">
+                 <div class="item">
+                <div class="Launchpad_Guests-wrap pb-4">
+                  <div class="text">
+                    <p class="mb-4"> He is one of the founders of a  exciting new healthcare sector. IVF specialist turned angel investor, who has been making a very strong foray into the startup landscape, and funding frugal innovation every chance that he can.
+He believes in being domain agnostic, and being empathetic towards the needs of young entrepreneurs, as a result of which he has lead multiple successful startups into financial maturity. He is also behind the world's largest patient educational library.</p>
+                  </div>
+                  <div class="d-flex">
+                    <div class="user-img" style="background-image: url(images/dr_aniruddha_malpani.jfif)">
+                    </div>
+                    <div class="pos ml-3">
+                      <p class="name">Dr.Aniruddha Malpani</p>
+                      <span class="position">Angel Investor.Founder Malpani Ventures.</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div class="item">
                 <div class="Launchpad_Guests-wrap pb-4">
                   <div class="text">

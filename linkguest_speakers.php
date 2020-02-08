@@ -50,25 +50,27 @@
                 <div class="el__cardhid__left">
                     
                 </div>
-				<div class="el__card1">
+				
+                
+                <div class="el__card1">
+                     <div class="el__head__2">
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/dr_aniruddha_malpani.jfif" style="height:100px;width:100px;"></h1>    
+                    </div><br>
+                   <h5>Dr.Aniruddha Malpani</h5>
+                    <h6>Angel Investor. Founder Malpani Ventures.</h6>
+                    <br><a href="https://www.linkedin.com/in/aniruddhamalpani/?originalSubdomain=in"><button class="btn btn-primary">Know more</button> </a>   
+                </div>
+                <div class="el__card1">
                 
                     <div class="el__head__1">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/anilAgarwal.jpg" style="height:100px;width:100px;"></h1>
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/gregMoran.jpg" style="height:100px;width:100px;"></h1>
                     </div><br>
-                    <h5>Anil Agarwal</h5>
-                    <h6>Joint Secretary, Department for Promotion of Industry and Internal Trade</h6>
-                    <br><button class="btn btn-primary">Know more</button> 
+                   <h5>Greg Moran</h5>
+                        <h6>Founder, ZoomCar</h6>
+                    <br><a href="https://www.linkedin.com/in/greg-moran-45b9a27/?originalSubdomain=in"><button class="btn btn-primary">Know more</button> </a>
                 </div>
                 
-                <div class="el__card2">
-                     <div class="el__head__2">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/nandiniVaidhyanath.jpg" style="height:100px;width:100px;"></h1>    
-                    </div><br>
-                   <h5>Nandini Vaidhyanath</h5>
-                    <h6>Founder, CARMa Ventures</h6>
-                <br><button class="btn btn-primary">Know more</button>    
-                </div>
-                    
+                
                 </div>
 			<!--Speaker section 2-->
               
@@ -77,15 +79,15 @@
                 <div class="el__cardhid__left">
                     
                 </div>
-				<div class="el__card1">
-                
-                    <div class="el__head__1">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/gregMoran.jpg" style="height:100px;width:100px;"></h1>
+                <div class="el__card2">
+                     <div class="el__head__2">
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/jeyandran.jpg" style="height:100px;width:100px;"></h1>    
                     </div><br>
-                   <h5>Greg Moran</h5>
-                        <h6>Founder, ZoomCar</h6>
-                    <br><button class="btn btn-primary">Know more</button> 
+                    <h5>Jeyandran Venugopal</h5>
+                    <h6>Head of Engineering, Flipkart</h6>
+                    <br><a href="https://www.linkedin.com/in/jeyandran/?originalSubdomain=in"><button class="btn btn-primary">Know more</button> </a>
                 </div>
+				
                 
                 <div class="el__card2">
                      <div class="el__head__2">
@@ -93,7 +95,7 @@
                     </div><br>
                     <h5>Satyarth Priyadarshi</h5>
                     <h6>Head of Digital, TATA AIA</h6>
-                    <br><button class="btn btn-primary">Know more</button> 
+                    <br><a href="https://www.linkedin.com/in/satyarth/?originalSubdomain=in"><button class="btn btn-primary">Know more</button> </a>
                 </div>
                     
                 </div>
@@ -112,7 +114,7 @@
                     </div><br>
                    <h5>Hari Menon</h5>
                         <h6>Big Basket</h6>
-                    <br><button class="btn btn-primary">Know more</button> 
+                    <br><a href="https://www.crunchbase.com/person/hari-menon#section-overview"><button class="btn btn-primary">Know more</button></a> 
                 </div>
                 
                 <div class="el__card2">
@@ -121,7 +123,7 @@
                     </div><br>
                     <h5>Tapan Singhel</h5>
                     <h6>CEO, Bajaj Allianz</h6>
-                    <br><button class="btn btn-primary">Know more</button> 
+                    <br><a href="https://www.linkedin.com/in/tapansinghel/?originalSubdomain=in"><button class="btn btn-primary">Know more</button> </a>
                 </div>
                     
                 </div>
@@ -142,17 +144,18 @@
                     </div><br>
                    <h5>Sachin Gupta</h5>
                         <h6>CEO, HackerEarth</h6>
-                    <br><button class="btn btn-primary">Know more</button> 
+                    <br><a href="https://www.linkedin.com/in/sachingupta006/"><button class="btn btn-primary">Know more</button> </a> 
+                </div>
+                <div class="el__card2">
+                
+                    <div class="el__head__1">
+                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/anilAgarwal.jpg" style="height:100px;width:100px;"></h1>
+                    </div><br>
+                    <h5>Anil Agarwal</h5>
+                    <h6>Joint Secretary, Department for Promotion of Industry and Internal Trade</h6>
+                    <br><a href=""><button class="btn btn-primary">Know more</button> </a> 
                 </div>
                 
-                <div class="el__card2">
-                     <div class="el__head__2">
-                        <h1 style="color:#fff;font-weight:800;font-size:50px;"><img src="images/jeyandran.jpg" style="height:100px;width:100px;"></h1>    
-                    </div><br>
-                    <h5>Jeyandran Venugopal</h5>
-                    <h6>Head of Engineering, Flipkart</h6>
-                    <br><button class="btn btn-primary">Know more</button> 
-                </div>
                     
                 </div>
 			
