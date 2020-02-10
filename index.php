@@ -70,70 +70,47 @@
     			</div>
     		</div>
     	</div></div>
-    </section>
-    <section class="services-section py-5 py-md-0 bg-light">
-     <div class="business">
-        <div class="row no-gutters d-flex">
-          <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
-            <div class="media block-6 services d-block">
-              <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="#">CONSULTING</a></h3>
-                <p>An initiative started recently by the team to help start ups grow whatever way we can by providing consulting or other services.</p>
-              </div>
-            </div>    
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
-            <div class="media block-6 services d-block">
-              <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="activities.php#compititionsTag">COMPETITIONS</a></h3>
-                <p>All Year E-Cell hosts various compititions to test the limits of your Wits and dedication towards your ideas.</p>
-              </div>
-            </div>   
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
-            <div class="media block-6 services active d-block">
-              <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad_main.php">LAUNCHPAD</a></h3>
-                <p>Launchpad is the annual E-summit organised by the Entrepreneurship Cell, BITS Pilani Hyderabad Campus.</p>
-              </div>
-            </div>      
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex align-self-stretch E-Cell_Website-animate">
-            <div class="media block-6 services d-block">
-              <div class="media-body">
-                <h3 class="heading mb-3"><a class="E-CEll_Highlights" href="launchpad_main.php">INTERNSHIP DRIVES</a></h3>
-                <p>Internship Drive is an opportunity to find an internship in 30+ startups providing stipend upto to 50k INR.</p>
-              </div>
-            </div>      
-          </div>
-        </div>
-      </div>
-    </section>
     <section class="Launchpad_Guests-section">
       <div class="business">
         <div class="row E-Cell_Website-animate justify-content-center">
-        	<div class="col-md-6 d-flex">
-        		<div class="Launchpad_Guests-img" style="background-image: url(images/logo.png);"></div>
-        	</div>
+          <div class="col-md-6 d-flex">
+            <div class="Launchpad_Guests-img" style="background-image: url(images/logo.png);"></div>
+          </div>
           <div class="col-md-6 py-5">
-          	<div class="heading-section heading-section-white pt-4 E-Cell_Website-animate">
-		          <h2 class="mb-0">Our Esteemed Guests</h2>
+            <div class="heading-section heading-section-white pt-4 E-Cell_Website-animate">
+              <h2 class="mb-0">Our Esteemed Guests</h2>
               <h4>The best from the Entrepreneurship World</h4>
-		        </div>
+            </div>
             <div class="launchpad-Launchpad_Guests owl-launchpad E-Cell_Website-owl">
+                 <div class="item">
+                <div class="Launchpad_Guests-wrap pb-4">
+                  <div class="text">
+                    <p class="mb-4"> He is one of the founders of a  exciting new healthcare sector. IVF specialist turned angel investor, who has been making a very strong foray into the startup landscape, and funding frugal innovation every chance that he can.
+He believes in being domain agnostic, and being empathetic towards the needs of young entrepreneurs, as a result of which he has lead multiple successful startups into financial maturity. He is also behind the world's largest patient educational library.</p>
+                  </div>
+                  <div class="d-flex">
+                    <div class="user-img" style="background-image: url(images/dr_aniruddha_malpani.jfif)">
+                    </div>
+                    <div class="pos ml-3">
+                      <p class="name">Dr.Aniruddha Malpani</p>
+                      <span class="position">Angel Investor. Founder Malpani Ventures.</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div class="item">
                 <div class="Launchpad_Guests-wrap pb-4">
                   <div class="text">
                     <p class="mb-4">He started off as a software engineer in 1984 and then went on to become an UP police officer and right now is an IPS officer,Joint secretary of Department of Promotion of Industry and Internal Trade and joint secretary of Industrial Policy and promotion</p>
                   </div>
                   <div class="d-flex">
-	                  <div class="user-img" style="background-image: url(images/anilAgarwal.jpg)">
-	                  </div>
-	                  <div class="pos ml-3">
-	                  	<p class="name">Anil Agarwal</p>
-	                    <span class="position">Joint Secretary, Department for Promotion of Industry and Internal Trade</span>
-	                  </div>
-	                </div>
+                    <div class="user-img" style="background-image: url(images/anilAgarwal.jpg)">
+                    </div>
+                    <div class="pos ml-3">
+                      <p class="name">Anil Agarwal</p>
+                      <span class="position">Joint Secretary, Department for Promotion of Industry and Internal Trade</span>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div class="item">
@@ -232,13 +209,13 @@
                     <p class="mb-4">Amazon to Myntra to flipkart, Jeyandran Venugopal is a man who believes in being on top of the game all the time. A graduate from University of Illinois, Mr. Jeyandran has great quality sets and skills. He has mastered in Software Development, Algorithms and Cloud computing. With great leadership qualities, He is man with great ideas on innovation, technology and business. His ideas along with his skills ignite a spark among young minds.</p>
                   </div>
                   <div class="d-flex">
-	                  <div class="user-img" style="background-image: url(images/jeyandran.jpg)">
-	                  </div>
-	                  <div class="pos ml-3">
-	                  	<p class="name">Jeyandran Venugopal</p>
-	                    <span class="position">Head of Engineering, Flipkart</span>
-	                  </div>
-	                </div>
+                    <div class="user-img" style="background-image: url(images/jeyandran.jpg)">
+                    </div>
+                    <div class="pos ml-3">
+                      <p class="name">Jeyandran Venugopal</p>
+                      <span class="position">Head of Engineering, Flipkart</span>
+                    </div>
+                  </div>
                 </div>
               </div>
              <!-- <div class="item">
@@ -247,13 +224,13 @@
                     <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="d-flex">
-	                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
-	                  </div>
-	                  <div class="pos ml-3">
-	                  	<p class="name">Jeff Nucci</p>
-	                    <span class="position">Businessman</span>
-	                  </div>
-	                </div>
+                    <div class="user-img" style="background-image: url(images/person_1.jpg)">
+                    </div>
+                    <div class="pos ml-3">
+                      <p class="name">Jeff Nucci</p>
+                      <span class="position">Businessman</span>
+                    </div>
+                  </div>
                 </div>
               </div> 
               <div class="item">
@@ -262,13 +239,13 @@
                     <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
                   </div>
                   <div class="d-flex">
-	                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
-	                  </div>
-	                  <div class="pos ml-3">
-	                  	<p class="name">Jeff Nucci</p>
-	                    <span class="position">Businessman</span>
-	                  </div>
-	                </div>
+                    <div class="user-img" style="background-image: url(images/person_1.jpg)">
+                    </div>
+                    <div class="pos ml-3">
+                      <p class="name">Jeff Nucci</p>
+                      <span class="position">Businessman</span>
+                    </div>
+                  </div>
                 </div>
               </div>-->
             </div>

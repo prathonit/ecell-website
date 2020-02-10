@@ -103,7 +103,7 @@ He believes in being domain agnostic, and being empathetic towards the needs of 
                     </div>
                     <div class="pos ml-3">
                       <p class="name">Dr.Aniruddha Malpani</p>
-                      <span class="position">Angel Investor.Founder Malpani Ventures.</span>
+                      <span class="position">Angel Investor. Founder Malpani Ventures.</span>
                     </div>
                   </div>
                 </div>
