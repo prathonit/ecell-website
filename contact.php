@@ -60,7 +60,7 @@
                 <span class="icon-phone2"></span>
               </div>
               <h3 class="mb-4">Contact Number</h3>
-              <p><a href="tel://1234567920">+91-9819822977</a></p>
+              <p><a href="tel://1234567920">+91-7589268096</a></p>
             </div>
           </div>
           <div class="col-md-3 d-flex">
@@ -97,27 +97,27 @@
           <div class="col-md-12">
             <div class="launchpad-causes owl-launchpad">
               <div class="item">
-                <a href="https://www.linkedin.com/in/vithun-athreya-77a90414a/" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-1.jpg);"></div>
-                  <h3>Vithun Athreya</h3>
+                <a href="https://www.linkedin.com/in/shreejee-agarwal-20b7b3174/" target="_blank" class="causes text-center">
+                  <div class="img" style="background-image: url(images/shree.jpg);"></div>
+                  <h3>Shreejee Agarwal</h3>
                   <h2>President</h2>
-                  <h5>+91-9819822977</h5>
+                  <h5>+91-9521875650</h5>
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.linkedin.com/in/avishek-bhattacharjee-25844514a/" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-3.jpg);"></div>
-                  <h3>Avishek</h3>
-                  <h2>Launchpad Head</h2>
-                  <h5>+91-9475868494</h5>
+                <a href="https://www.linkedin.com/in/osho-mittal-053852171/" target="_blank" class="causes text-center">
+                  <div class="img" style="background-image: url(images/osho.jpg);"></div>
+                  <h3>Osho Mittal</h3>
+                  <h2>Launchpad Coordinator</h2>
+                  <h5>+91-6264112638</h5>
                 </a>
               </div>
               <div class="item">
-                <a href="https://www.linkedin.com/in/divyam-goel-5a12b5158/" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-5.jpg);"></div>
-                  <h3>Divyam Goel</h3>
-                  <h2>Activities Head</h2>
-                  <h5>+91-8340056600</h5>
+                <a href="https://www.linkedin.com/in/amritanshu-nayak-7b7763170/" target="_blank" class="causes text-center">
+                  <div class="img" style="background-image: url(images/amrit.jpg);"></div>
+                  <h3>Amritanshu Nayak</h3>
+                  <h2>Vice President</h2>
+                  <h5>+91-8249632886</h5>
                 </a>
               </div>
               <!--<div class="item">
@@ -129,11 +129,35 @@
                 </a>
               </div>-->
               <div class="item">
-                <a href="https://www.linkedin.com/in/kanishk-katara/" target="_blank" class="causes text-center">
-                  <div class="img" style="background-image: url(images/causes-4.jpg);"></div>
-                  <h3>Kanishk Katara</h3>
-                  <h2>Activities Head</h2>
-                  <h5>+91-9149004269</h5>
+                <a href="https://www.linkedin.com/in/aakash--bansal/" target="_blank" class="causes text-center">
+                  <div class="img" style="background-image: url(images/bansal.jpg);"></div>
+                  <h3>Aakash Bansal</h3>
+                  <h2>Technical Head</h2>
+                  <h5>+91-7589268096</h5>
+                </a>
+              </div>
+              <div class="item">
+                <a href="https://www.linkedin.com/in/shivam-akarte/" target="_blank" class="causes text-center">
+                  <div class="img" style="background-image: url(images/akarte.jpg);"></div>
+                  <h3>Shivam Akarte</h2>
+                  <h2>Editorial Head</h3>
+                  <h5>8788318493</h5>
+                </a>
+              </div>
+              <div class="item">
+                <a href="https://www.linkedin.com/in/vineeth-varma-44a747169/" target="_blank" class="causes text-center">
+                  <div class="img" style="background-image: url(images/vineeth.jpg);"></div>
+                  <h3>Vineeth Varma</h2>
+                  <h2>Community Relations Head</h3>
+                  <h5>9381320750</h5>
+                </a>
+              </div>
+              <div class="item">
+                <a href="https://www.linkedin.com/in/dev-kirti-phartiyal-407784188/" target="_blank" class="causes text-center">
+                  <div class="img" style="background-image: url(images/dev.jpg);"></div>
+                  <h3>DevKirti Phartiyal</h2>
+                  <h2>Design Head</h3>
+                  <h5>8979094551</h5>
                 </a>
               </div>
             </div>

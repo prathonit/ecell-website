@@ -138,28 +138,28 @@
           <div class="col-md-12">
             <div class="launchpad-causes owl-launchpad">
               <div class="item">
-                <a href="launchpad.html#GroundRealityTag" class="causes text-center">
+                <a href="linkground_reality.php" class="causes text-center">
                   <div class="img" style="background-image: url(images/GroundRealityCircular.png);"></div>
                   <h2>Ground Reality</h2>
                   <p>Ground reality is the Annual start-up challenge and entrepreneurship conclave organized by E-CELL - BITS Pilani Hyderabad Campus.</p>
                 </a>
               </div>
               <div class="item">
-                <a href="launchpad.html#BeyondProfitsTag" class="causes text-center">
+                <a href="linkbeyond_profits.php" class="causes text-center">
                   <div class="img" style="background-image: url(images/BeyondProfitsCircular.png);"></div>
                   <h2>Beyond Profits</h2>
                   <p>Beyond Profits is the Annual Social Business Plan competition organized by E-Cell, BITS Pilani Hyderabad Campus.</p>
                 </a>
               </div>
               <div class="item">
-                <a href="launchpad.html#InternshipDriveTag" class="causes text-center">
+                <a href="linkinternship_drive.php" class="causes text-center">
                   <div class="img" style="background-image: url(images/InternshipDriveCircular.png);"></div>
                   <h2>Internship Drive</h2>
                   <p>Internship Drive is an opportunity to find an internship in 30+ startups providing stipend upto to 50k INR.</p>
                 </a>
               </div>
               <div class="item">
-                <a href="launchpad.html#StartupExpo" class="causes text-center">
+                <a href="startup_expo.php" class="causes text-center">
                   <div class="img" style="background-image: url(images/Expo.png);"></div>
                   <h2>Start-Up Expo</h2>
                   <p>Start-up Expo is an initiative taken to provide young entrepreneurs the spotlight they deserve by showcasing their enterprises to the attendees present at the summit.</p>

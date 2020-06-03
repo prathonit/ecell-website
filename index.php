@@ -47,6 +47,7 @@
       </div>
     </div>
   </br>
+  
     <section class="E-Cell_Website-section E-Cell_Website-no-pt E-Cell_Website-no-pb E-Cell_Website-Vision">
     	<div class="business">
     		<div class="row">
@@ -56,7 +57,7 @@
     						<div class="text py-5 pl-md-4 pr-md-3">
     							<h2 class="mb-4">We are E-CELL, BPHC</h2>
     							<p>We aim at fostering entrepreneurial skills among students</p>
-    							<p><a href="contact.php#eCellConnectTag" class="btn btn-primary py-3 px-4">For Association</a></p>
+    							<p><a href="contact.php" class="btn btn-primary py-3 px-4">For Association</a></p>
     						</div>
     					</div>
     				</div>
@@ -65,11 +66,137 @@
     				<div class="about-text py-5 pl-md-5">
     					<h2><strong class="text" >NETWORKING</strong></h2>
     					<p>We connect various start ups and guide them through their journey.</p>
-              <p><a href="contact.php" class="btn btn-black py-3 px-4">E-Cell Connect</a></p>
+              <p><a href="contact.php#eCellConnectTag" class="btn btn-black py-3 px-4">E-Cell Connect</a></p>
     				</div>
     			</div>
     		</div>
     	</div></div>
+      <section class="E-Cell_Website-section">
+      <div id="compititionsTag">
+      <div class="business">
+        <center><h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">COMPITITIONS</h1></center>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+             <a href=""> <div class="img" style="background-image: url(images/SuitUp.png);"></div> </a>
+              <h2>SUIT UP</h2>
+              <p>SUIT UP is a game that puts you at the beginning of your start-up. Participants are given details about the idea after which they have to work around real life problems to make it successful. Hiring people, marketing, trading, and bidding are some of the concepts used and grounds upon which people are tested.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href=""><div class="img" style="background-image: url(images/Dilemma.png);"></div></a>
+              <h2>Manager’s Dilemma</h2>
+              <p>Manager’s Dilemma replicates real life situation of managers in enterprises. It tests the skills of a participant on the terms of decision making nerve and case study of the enterprise. Making the right decision at the right time keeping in mind the past and future scenarios of an enterprise is what one learns from the event.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href=""><div class="img" style="background-image: url(images/APPCONNECT.png);"></div></a>
+              <h2>APPCONNECT</h2>
+              <p>APPCONNECT is an online event which requires you to submit an app idea. It is not about building one, just brainstorming about a new idea. Ideas judged on the grounds of creativeness, innovation, applications and feasibility. Prizes won just for idea submission makes the event quite popular round the nation.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href=""><div class="img" style="background-image: url(images/ManagingTemptations.png);"></div></a>
+              <h2>Managing Temptations</h2>
+              <p>Managing Temptations is an event to provide a chance to students to work on their selling skills. Teams of 3/4 get together and have to run the restaurant inside the college for an hour and maximize profits.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href=""><div class="img" style="background-image: url(images/Sellit.png);"></div></a>
+              <h2>Sell It</h2>
+              <p>Do you have in you what it takes to showcase your pitching skills to the entire world? This is your opportunity to test yourself. You need to showcase your advertising skills by selling a set of products via a video and getting it approved by the team, before sharing the advertisement and maximising its outreach.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href=""><div class="img" style="background-image: url(images/AceTheCase.png);"></div></a>
+              <h2>Ace The Case</h2>
+              <p>A contest of participants striving to develop the best solution within an allotted time frame, E-cell of BITS PILANI Hyderabad Chapter provides you an opportunity to do so with it’s CASE STUDY COMPETITION of the year.</p>
+            </div>
+          </div>
+      </div>
+        <center><h1 class="mb-4" data-scrollax="properties: {opacity: 1.6 }">Projects</h1></center>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+             <a href=""> <div class="img" style="background-image: url(images/CoffeeWithCel.png);"></div> </a>
+              <h2>Coffee with CEL</h2>
+              <p>Coffee with CEL is a pioneer project of the Centre for Entrepreneurial Leadership. It is a conversation wherein E-Cell members interview high profile Industrialists, Start-Up Founders, Venture Capitalists, Angel Investors and other influential people who can guide, mentor and train the students in their endeavour to build a start-up over a cup of coffee.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href=""><div class="img" style="background-image: url(images/TechToStartup.png);"></div></a>
+              <h2>Tech to Startup</h2>
+              <p>In recent years, tech startups have become one of the top venture capital investment choices. E-Cell provides the existing technical projects on campus a base to build into a start-up and bring them investors in order to promote their ideas as well as foster technical and entrepreneurial skills among the students on campus.</p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href=""><div class="img" style="background-image: url(images/Collab.jpg);"></div></a>
+              <h2>Collaborations</h2>
+              <p>E-Cell aims to collaborate with various technical associations and/or clubs on campus in order to provide a 15-20 day course outline which consists of all the basic skills that an entrepreneur requires and must polish to succeed.</p>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+  <div class="business">
+        <div class="row justify-content-center pb-3">
+          <div class="col-md-10 heading-section text-center E-Cell_Website-animate">
+            <h2 class="mb-4">Launchpad Events</h2>
+            <a href="launchpad.html"><p>E-Summit</p></a>
+          </div>
+        </div>
+      </div>
+      <div class="business">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="launchpad-causes owl-launchpad">
+              <div class="item">
+                <a href="linkground_reality.php" class="causes text-center">
+                  <div class="img" style="background-image: url(images/GroundRealityCircular.png);"></div>
+                  <h2>Ground Reality</h2>
+                  <p>Annual start-up challenge and entrepreneurship conclave.</p>
+                </a>
+              </div>
+              <div class="item">
+                <a href="linkbeyond_profits.php" class="causes text-center">
+                  <div class="img" style="background-image: url(images/BeyondProfitsCircular.png);"></div>
+                  <h2>Beyond Profits</h2>
+                  <p>Annual Social Business Plan competition.</p>
+                </a>
+              </div>
+              <div class="item">
+                <a href="linkinternship_drive.php" class="causes text-center">
+                  <div class="img" style="background-image: url(images/InternshipDriveCircular.png);"></div>
+                  <h2>Internship Drive</h2>
+                  <p>Find an internship in 30+ startups providing stipends upto to 50k INR.</p>
+                </a>
+              </div>
+              <div class="item">
+                <a href="startup_expo.php" class="causes text-center">
+                  <div class="img" style="background-image: url(images/Expo.png);"></div>
+                  <h2>Start-Up Expo</h2>
+                  <p>An initiative taken to provide young entrepreneurs the spotlight they deserve.</p>
+                </a>
+              </div>
+              <!--<div class="item">
+                  <a href="" target="_blank" class="causes text-center">
+                    <div class="img" style="background-image: url(images/causes-4.jpg);"></div>
+                    <h2>Kanishk Katara</h2>
+                    <h3>#####</h3>
+                  </a>
+                </div>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="Launchpad_Guests-section">
       <div class="business">
         <div class="row E-Cell_Website-animate justify-content-center">
