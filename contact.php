@@ -148,7 +148,7 @@
                 <a href="https://www.linkedin.com/in/vineeth-varma-44a747169/" target="_blank" class="causes text-center">
                   <div class="img" style="background-image: url(images/vineeth.jpg);"></div>
                   <h3>Vineeth Varma</h2>
-                  <h2>Community Relations Head</h3>
+                  <h2>Vice President</h3>
                   <h5>9381320750</h5>
                 </a>
               </div>
