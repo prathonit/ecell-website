@@ -30,27 +30,95 @@
   <body>
     <?php include('assets/header.php')?>
     
-    <section class="E-Cell_Launchpad-wrap E-Cell_Launchpad-wrap-2" style="background-image: url('images/555.gif');" data-stellar-background-ratio="0.5">
+    <!--<section class="E-Cell_Launchpad-wrap E-Cell_Launchpad-wrap-2" style="background-image: url('images/555.gif');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="business">
         <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
           <div class="col-md-9 E-Cell_Website-animate pb-5 text-center">
-            <h2 class="mb-3 bread">E-Summit</h2>
+          <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">E-Summit</h1>
             <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Launchpad <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
     </section>
-     <section class="EcellIcons" style="padding:40px;background-color:#5F9F9F;">
+    </br></br></br></br>
+    </body>
+  </br>-->
+  <div class="E-Cell_Launchpad-wrap" style="background-image: url('images/555.gif');" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="business">
+        <div class="row no-gutters slider-text align-items-center justify-content-end" data-scrollax-parent="true">
+          <div class="col-md-6 order-md-last E-Cell_Website-animate mt-5" data-scrollax=" properties: { translateY: '70%' }">
+            <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">E-Summit</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Launchpad <i class="ion-ios-arrow-forward"></i></span></p>
+            <!--<p><a href="contact.php" class="btn btn-black py-3 px-4">GET OUR HELP</a></p>-->
+          </div>
+          <div class="col-md-6 d-none d-md-block">
+          	<div class="play-video pb-5 d-flex align-items-center">
+          		<p><a href="images/Launchpad_Trailer.mp4" alt="Launchpad 2O19" class="popup-vimeo"><span class="icon"><i class="ion-ios-play "></i></span> <span class="play">Launchpad 2019</span></a></p>
+          	</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  <section class="E-Cell_Website-section">
+      <div id="compititionsTag">
+      <div class="business">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+             <a href="linkbeyond_profits.php"> <div class="img" style="background-image: url(images/beyond_profits.jpeg);"></div> </a>
+              <h2>Beyond Profits</h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href="linkground_reality.php"><div class="img" style="background-image: url(images/ground_reality.png);"></div></a>
+              <h2>Ground Reality</h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href="linkstartup_expo.php"><div class="img" style="background-image: url(images/startup_expo.png);"></div></a>
+              <h2>StartUp Expo</h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href="linkinternship_drive.php"><div class="img" style="background-image: url(images/internship_drive.png);"></div></a>
+              <h2>Internship Drive</h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href="linkguest_speakers.php"><div class="img" style="background-image: url(images/guest_speaker.jpg);"></div></a>
+              <h2>Guest Speakers</h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="causes causes-2 text-center pb-4 px-md-4">
+              <a href="linkmore_about.php"><div class="img" style="background-image: url(images/ECellConnect.jpeg);"></div></a>
+              <h2>More About Launchpad</h2>
+              <p></p>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+    </section>
+    <!--<section class="EcellIcons" style="padding:40px;background-color:#5F9F9F;">
         <center>
             <Br> <a href="https://www.thecollegefever.com/college-entrepreneurship-events/launchpad-entrepreneurial-summit-bits-hyderabad2020"><button class="btn btn-accent" style="border-radius:10px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"><h1 style="color:white;">Register Now</h1></button></a>
         
         </center>
         
-    </section>
-    </body>
-  </br>
-    <section class=EcellIcons>
+    </section>-->
+    <!--<section class=EcellIcons>
         <center>
       <div class=iconsRow>
         
@@ -76,10 +144,7 @@
         </div>
       </div>
         </center>
-    </section>
-    <br/>
-   
-    
+    </section>-->
     <section class="Launchpad_Guests-section">
       <div class="business">
         <div class="row E-Cell_Website-animate justify-content-center">

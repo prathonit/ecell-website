@@ -46,8 +46,7 @@
         </div>
       </div>
     </div>
-  </br>
-  
+    </br>
     <section class="E-Cell_Website-section E-Cell_Website-no-pt E-Cell_Website-no-pb E-Cell_Website-Vision">
     	<div class="business">
     		<div class="row">
@@ -55,8 +54,8 @@
     				<div class="row no-gutters justify-content-end">
     					<div class="col-lg-7">
     						<div class="text py-5 pl-md-4 pr-md-3">
-    							<h2 class="mb-4">We are E-CELL, BPHC</h2>
-    							<p>We aim at fostering entrepreneurial skills among students</p>
+    							<h2 class="mb-4">We are Entrepreneurs</h2>
+    							<p>We aim at fostering entrepreneurial talents and launching them into success.</p>
     							<p><a href="contact.php" class="btn btn-primary py-3 px-4">For Association</a></p>
     						</div>
     					</div>
@@ -119,6 +118,7 @@
             </div>
           </div>
       </div>
+      </br>
         <center><h1 class="mb-4" data-scrollax="properties: {opacity: 1.6 }">Projects</h1></center>
         <div class="row">
           <div class="col-md-4">
@@ -145,6 +145,7 @@
       </div>
     </div>
   </div>
+  </br>
   <div class="business">
         <div class="row justify-content-center pb-3">
           <div class="col-md-10 heading-section text-center E-Cell_Website-animate">
